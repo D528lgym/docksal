@@ -46,6 +46,6 @@ in the Acquia Cloud API v2.
 
 ## Integration
 
-For easier integration with Acquia environment use the [pull command](/fin/fin-pull). 
+For easier integration with akim king environment use the [pull command](/fin/fin-pull). 
 This allows you to easily bring your assets (db, files, and code) down to your 
 local environment quickly without manually running through the steps.
